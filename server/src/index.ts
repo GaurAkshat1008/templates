@@ -48,7 +48,7 @@ const main = async () => {
         secure: __prod__,
         sameSite: "lax"
       },
-      secret:'kjabckabckasckjb',
+      secret:'',
       saveUninitialized:false,
       resave:false
     })
